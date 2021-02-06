@@ -1,6 +1,6 @@
 # Tutorial for Embed Message.
 
-## Me Royal Embed Message Docs.
+# Me Royal Embed Message Docs.
 
 ### This Is Help In Welcome Message, Good Bye Message, Custom Command, YouTube Notification, Level Up.
 
@@ -10,9 +10,10 @@ __This Is Help You That How To Write In Welcome Message and Many More In easy wa
 
 **Me royal guide**
 
-##### Welcomer & goodbye
+## Welcomer & goodbye
 
 **User info**
+
 `{user}`- mention join user
 `{user.id}`- join user id
 `{user.name}`- join user name ex. record_buttonNAME BOYrecord_button
@@ -20,17 +21,20 @@ __This Is Help You That How To Write In Welcome Message and Many More In easy wa
 `{user.tag}` - join user tag like this record_buttonNAME BOYrecord_button#2751
 
 **Server info**
+
 `{server.name}` - server name give
 `{server.id}` - server id give
 `{server.icon_url}` - server icon url give
 `{membercount}` - server all membercount
 
 **Mention info**
+
 `{:<enter emoji name>}`- mention emoji like this 11 [support nitro emoji also]
 `{#<enter channel name>}`- mention channel like this #🤖｜ʙᴏᴛ-ɪɴғᴏ  
 `{&<enter role name>}`- mention role like this @━━⟡━━『 DEVELOPER 』━━⟡━━ 
 
 **Embed info**
+
 `{embed}`- embed ture or false checker
 `{title:<your message>}`- embed title
 `{description:<your message>}`- embed description message
@@ -65,7 +69,7 @@ Welcome to {:ma} {server.name} {:ma}
 {embedImage}
 ```
 
-###### LEVEL UP MESSAGE
+## LEVEL UP MESSAGE
 
 **Me Royal Guide 2**
 
@@ -75,11 +79,12 @@ Level
 Othe tag Same as Level as Welcome and Good Bye.
 
 **EXAMPLE OF LEVEL UP MESSAGE**-
+
 ```javascript
 {user},You Just Reach {level}.
 ```
 
-###### CUSTOM COMMANDS
+## CUSTOM COMMANDS
 **Me Royal Guide 3**
 Role Manager
 `{role.add:<role name or role I'd>}` - Add Role If You Type In Custom Command.
@@ -88,12 +93,13 @@ Role Manager
 Other Tag Same as Welcome and Good Bye.
 
 **EXAMPLE OF CUSTOM COMMAND** - 
+
 ```javascript
 {role.add:Official}
 {role.remove:Unverified}
 ```
 
-###### YOUTUBE NOTIFICATION
+## YOUTUBE NOTIFICATION
 **Me Royal Guide 4**
 
 YT Manager
@@ -110,6 +116,7 @@ YT Manager
 `{:< enter emoji name >}`- mention emoji like this {:hello}[support nitro emoji also].
 
 **EXAMPLE OF YOUTUBE NOTIFICATION**-
+
 ```javascript
 Hey {everyone}, **{channelName}** just posted a video! Go check it out! {:likesymbol} 
 {:thanks} {videoLink}

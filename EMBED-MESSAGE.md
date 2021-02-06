@@ -92,3 +92,17 @@ Other Tag Same as Welcome and Good Bye.
 {role.add:Official}
 {role.remove:Unverified}
 ```
+
+###### YOUTUBE NOTIFICATION
+**Me Royal Guide 4**
+
+YT Manager
+`{here}` - replace by the @here mention.
+
+`{everyone}` - replace by the @everyone mention.
+
+`{videoTitle}` - replace by the Upload Video Title.
+
+`{videoLink}` - replace by the Upload Video Link.
+
+`{channelName}` - replace by the Upload Video Channel Name.

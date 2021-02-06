@@ -35,7 +35,7 @@ Welcomer & goodbye
 `{title:<your message>}`- embed title
 `{description:<your message>}`- embed description message
 `{imageUrl:< enter image url>}`- embed image
-`{embedImage}` - welcome image like this- https://cdn.discordapp.com/attachments/644751471107244033/752572157883842610/welcome.png
+`{embedImage}` - welcome image like this- `https://cdn.discordapp.com/attachments/644751471107244033/752572157883842610/welcome.png`
 
 `{thumbnailUrl:<enter thumbnail url>}`- embed thumbnail
 

@@ -64,3 +64,6 @@ Welcome to {:ma} ME ROYAL OFFICIAL {:ma}
 {embedImage}
 {color:{randomText:#0099FF,#00FFFF,#FF0000,#00FF00}}
 ```
+
+###### LEVEL UP MESSAGE
+

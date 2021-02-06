@@ -2,7 +2,7 @@
 
 ## Me Royal Embed Message Docs.
 
-### This Is Help In Welcome Message, Good Bye Message, Custom Command, YouTube Notification.
+### This Is Help In Welcome Message, Good Bye Message, Custom Command, YouTube Notification, Level Up.
 
 __This Is Help You That How To Write In Welcome Message and Many More.In easy way.__
 

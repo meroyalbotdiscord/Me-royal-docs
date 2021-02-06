@@ -4,7 +4,7 @@
 
 ### This Is Help In Welcome Message, Good Bye Message, Custom Command, YouTube Notification, Level Up.
 
-__This Is Help You That How To Write In Welcome Message and Many More.In easy way.__
+__This Is Help You That How To Write In Welcome Message and Many More In easy way.__
 
 #### To Add Embed Message In Dashboard. Here Is The Important Tag's.
 
@@ -42,5 +42,23 @@ Welcomer & goodbye
 **Note**-`<` `>`not include your message.
 
 **EXAMPLE OF WELCOME AND GOOD BYE** - ```js
+{embed}
+{description:**{:iron} Hey {user}
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Welcome to {:ma} ME ROYAL OFFICIAL {:ma}
+━━━━━━━━━━━━━━━━━━━━━━━━━
+{:11}│Read the server rules at {#638944397857259550} and follow them.
 
+{:11}│Take your roles from {#651275188675149837}
+ 
+{:11} │If you are facing any problem bot/uplife-api  mention any pingforhelp
+
+{:11}│Enjoy and Please stay here.
+
+{:11}│ Membercount = {membercount}
+
+{:11}│Username = {user.name}
+━━━━━━━━━━━━━━━━━━━━━━━━━**}
+{embedImage}
+{color:{randomText:#0099FF,#00FFFF,#FF0000,#00FF00}}
 ```

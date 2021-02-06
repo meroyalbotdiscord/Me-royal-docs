@@ -106,3 +106,11 @@ YT Manager
 `{videoLink}` - replace by the Upload Video Link.
 
 `{channelName}` - replace by the Upload Video Channel Name.
+
+`{:< enter emoji name >}`- mention emoji like this {:hello}[support nitro emoji also].
+
+**EXAMPLE OF YOUTUBE NOTIFICATION**-
+```javascript
+Hey {everyone}, **{channelName}** just posted a video! Go check it out! {:likesymbol} 
+{:thanks} {videoLink}
+```

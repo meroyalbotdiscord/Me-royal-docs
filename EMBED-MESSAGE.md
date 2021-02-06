@@ -45,24 +45,24 @@ __This Is Help You That How To Write In Welcome Message and Many More In easy wa
 
 ```javascript
 {embed}
-{description:**{:iron} Hey {user}
+{description:**{:iron} Hey {user} 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-Welcome to {:ma} ME ROYAL OFFICIAL {:ma}
+Welcome to {:ma} {server.name} {:ma}
 ━━━━━━━━━━━━━━━━━━━━━━━━━
-{:11}│Read the server rules at {#638944397857259550} and follow them.
+{:11}│Read the server rules at {#788374043328774196} and follow them.
 
-{:11}│Take your roles from {#651275188675149837}
+{:11}│Take your roles from {#788374045074784307}
  
-{:11} │If you are facing any problem bot/uplife-api  mention any pingforhelp
+{:11} │If you are facing any problem ping staff Members
 
-{:11}│Enjoy and Please stay here.
+{:11}│Enjoy and stay here.
 
 {:11}│ Membercount = {membercount}
 
 {:11}│Username = {user.name}
 ━━━━━━━━━━━━━━━━━━━━━━━━━**}
+{color:#0099ff}
 {embedImage}
-{color:{randomText:#0099FF,#00FFFF,#FF0000,#00FF00}}
 ```
 
 ###### LEVEL UP MESSAGE

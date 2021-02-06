@@ -79,7 +79,7 @@ Othe tag Same as Level as Welcome and Good Bye.
 {user},You Just Reach {level}.
 ```
 
-######## CUSTOM COMMAND
+####### CUSTOM COMMANDS
 **Me Royal Guide 3**
 Role Manager
 `{role.add:<role name or role I'd>}` - Add Role If You Type In Custom Command.

@@ -41,8 +41,7 @@ Welcomer & goodbye
 
 **Note**-`<` `>`not include your message.
 
-**EXAMPLE OF WELCOME AND GOOD BYE** - ```js
-
+**EXAMPLE OF WELCOME AND GOOD BYE** - ```JS
 {embed}
 {description:**{:iron} Hey {user}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━

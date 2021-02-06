@@ -67,3 +67,13 @@ Welcome to {:ma} ME ROYAL OFFICIAL {:ma}
 
 ###### LEVEL UP MESSAGE
 
+**Me Royal Guide 2**
+
+`{level}` - Give Your Current Level.
+
+Othe tag Same as Level as Welcome and Good Bye.
+
+**EXAMPLE OF LEVEL UP MESSAGE***-
+```javascript
+{user},You Just Reach {level}.
+```

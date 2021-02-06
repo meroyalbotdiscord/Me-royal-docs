@@ -69,11 +69,26 @@ Welcome to {:ma} ME ROYAL OFFICIAL {:ma}
 
 **Me Royal Guide 2**
 
+Level
 `{level}` - Give Your Current Level.
 
 Othe tag Same as Level as Welcome and Good Bye.
 
-**EXAMPLE OF LEVEL UP MESSAGE***-
+**EXAMPLE OF LEVEL UP MESSAGE**-
 ```javascript
 {user},You Just Reach {level}.
+```
+
+####### CUSTOM COMMAND
+**Me Royal Guide 3**
+Role Manager
+`{role.add:<role name or role I'd>}` - Add Role If You Type In Custom Command.
+`{role.remove:<role name or role I'd }` - Remove Role If You Type In Custom Command.
+
+Other Tag Same as Welcome and Good Bye.
+
+**EXAMPLE OF CUSTOM COMMAND** - 
+```javascript
+{role.add:Official}
+{role.remove:Unverified}
 ```

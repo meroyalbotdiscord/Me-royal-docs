@@ -18,3 +18,9 @@
 3) *SELECT YOUR SERVER WHERE YOU WANT TO SETUP.*
 [![server](https://cdn.discordapp.com/attachments/796673457973624843/808293659350532126/IMG_20210208_164014.jpg)](https://meroyalbot.xyz/dashboard)
 
+## **HOW TO SETUP BOT IN YOUR SERVER**
+
+1) **[CLICK ME AND SELECT YOUR SERVER](https://meroyalbot.xyz/dashboard)
+2) *NOW SELECT WHATEVER YOU WANT TO SETUP.*
+[![setup]()](https://meroyalbot.xyz/dashboard)
+

@@ -1,12 +1,12 @@
 # Tutorial for Embed Message.
 
-# Me Royal Embed Message Docs.
+> **Me Royal Embed Message Docs.**
 
-### This Is Help In Welcome Message, Good Bye Message, Custom Command, YouTube Notification, Level Up.
+> This Is Help In Welcome Message, Good Bye Message, Custom Command, YouTube Notification, Level Up.
 
 __This Is Help You That How To Write In Welcome Message and Many More In easy way.__
 
-#### To Add Embed Message In Dashboard. Here Is The Important Tag's.
+> To Add Embed Message In Dashboard. Here Is The Important Tag's.
 
 **Me royal guide**
 
@@ -15,30 +15,43 @@ __This Is Help You That How To Write In Welcome Message and Many More In easy wa
 **User info**
 
 `{user}`- mention join user
+
 `{user.id}`- join user id
+
 `{user.name}`- join user name ex. record_buttonNAME BOYrecord_button
+
 `{user.avatar}` -join user Avatar link send
+
 `{user.tag}` - join user tag like this record_buttonNAME BOYrecord_button#2751
 
 **Server info**
 
 `{server.name}` - server name give
+
 `{server.id}` - server id give
+
 `{server.icon_url}` - server icon url give
+
 `{membercount}` - server all membercount
 
 **Mention info**
 
 `{:<enter emoji name>}`- mention emoji like this 11 [support nitro emoji also]
+
 `{#<enter channel name>}`- mention channel like this #🤖｜ʙᴏᴛ-ɪɴғᴏ  
+
 `{&<enter role name>}`- mention role like this @━━⟡━━『 DEVELOPER 』━━⟡━━ 
 
 **Embed info**
 
 `{embed}`- embed ture or false checker
+
 `{title:<your message>}`- embed title
+
 `{description:<your message>}`- embed description message
+
 `{imageUrl:< enter image url>}`- embed image
+
 `{embedImage}` - welcome image like this- `https://cdn.discordapp.com/attachments/644751471107244033/752572157883842610/welcome.png`
 
 `{thumbnailUrl:<enter thumbnail url>}`- embed thumbnail
@@ -49,16 +62,7 @@ __This Is Help You That How To Write In Welcome Message and Many More In easy wa
 
 ```javascript
 {embed}
-{description:**{:iron} Hey {user} 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-Welcome to {:ma} {server.name} {:ma}
-━━━━━━━━━━━━━━━━━━━━━━━━━
-{:11}│Read the server rules at {#788374043328774196} and follow them.
-
-{:11}│Take your roles from {#788374045074784307}
- 
-{:11} │If you are facing any problem ping staff Members
-
+{description:**━━━━━━━━━━━━━━━━━━━━━━━━━━
 {:11}│Enjoy and stay here.
 
 {:11}│ Membercount = {membercount}

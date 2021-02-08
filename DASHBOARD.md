@@ -12,3 +12,9 @@
 
 ## **HOW TO SELECT YOUR SERVER DASHBOARD.**
 
+1) **[CLICK ME](https://meroyalbot.xyz)**
+2) *AFTER LOGIN NOW SELECT DASHBOARD*
+[![Dashboard]()](https://meroyalbot.xyz)
+3) *SELECT YOUR SERVER WHERE YOU WANT TO SETUP.*
+[![server]()](https://meroyalbot.xyz/dashboard)
+

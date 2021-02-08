@@ -5,5 +5,6 @@
 1) **[CLICK ME](https://meroyalbot.xyz)**
 2) *TOP RIGHT CORNER YOU SEE LOGIN. CLICK LOGIN.*
 [![login](https://cdn.discordapp.com/attachments/796673457973624843/808258246937673740/IMG_20210208_140957.jpg)](https://meroyalbot.xyz)
-3)
+3) *CLICK ON AUTHORIZE*
+[[!authorize](https://cdn.discordapp.com/attachments/796673457973624843/808264103579615262/IMG_20210208_144229.jpg)]
 

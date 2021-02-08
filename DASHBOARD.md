@@ -16,5 +16,5 @@
 2) *AFTER LOGIN NOW SELECT DASHBOARD*
 [![Dashboard](https://cdn.discordapp.com/attachments/796673457973624843/808293136337338408/IMG_20210208_163757.jpg)](https://meroyalbot.xyz)
 3) *SELECT YOUR SERVER WHERE YOU WANT TO SETUP.*
-[![server]()](https://meroyalbot.xyz/dashboard)
+[![server](https://cdn.discordapp.com/attachments/796673457973624843/808293659350532126/IMG_20210208_164014.jpg)](https://meroyalbot.xyz/dashboard)
 

@@ -6,9 +6,9 @@
 2) *TOP RIGHT CORNER YOU SEE LOGIN. CLICK LOGIN.*
 [![login](https://cdn.discordapp.com/attachments/796673457973624843/808258246937673740/IMG_20210208_140957.jpg)](https://meroyalbot.xyz)
 3) *CLICK ON AUTHORIZE*
-![authorize](https://cdn.discordapp.com/attachments/796673457973624843/808264103579615262/IMG_20210208_144229.jpg)
+[![authorize](https://cdn.discordapp.com/attachments/796673457973624843/808264103579615262/IMG_20210208_144229.jpg)](https://meroyalbot.xyz)
 4) *YOU SUCCESSFUL LOGIN IN DASHBOARD. IN THE PLACE OF LOGIN YOU CAN SEE YOUR AVATAR OF YOUR DISCORD PROFILE. LIKE THIS=>*
-![avatar](https://cdn.discordapp.com/attachments/796673457973624843/808265413380931624/IMG_20210208_144757.jpg)
+[![avatar](https://cdn.discordapp.com/attachments/796673457973624843/808265413380931624/IMG_20210208_144757.jpg)](https://meroyalbot.xyz)
 
 ## **HOW TO SELECT YOUR SERVER DASHBOARD.**
 

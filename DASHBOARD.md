@@ -20,7 +20,7 @@
 
 ## **HOW TO SETUP BOT IN YOUR SERVER**
 
-1) **[CLICK ME AND SELECT YOUR SERVER](https://meroyalbot.xyz/dashboard)
+1) **[CLICK ME AND SELECT YOUR SERVER](https://meroyalbot.xyz/dashboard)**
 2) *NOW SELECT WHATEVER YOU WANT TO SETUP.*
 [![setup]()](https://meroyalbot.xyz/dashboard)
 

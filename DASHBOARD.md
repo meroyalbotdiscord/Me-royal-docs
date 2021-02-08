@@ -2,4 +2,6 @@
 
 **HOW TO LOGIN IN ME ROYAL DASHBOARD.**
 
-CLICK HERE => [ME ROYAL](https://meroyalbot.xyz)
+1) CLICK HERE => [ME ROYAL](https://meroyalbot.xyz)
+2) TOP RIGHT CORNER YOU SEE LOGIN. CLICK LOGIN.
+

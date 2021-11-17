@@ -33,3 +33,15 @@
 
 [![setup](https://media.discordapp.net/attachments/675640023273701437/910396350699540490/Screenshot_20211117-103953_Chrome.png)](https://meroyalbot.xyz/dashboard)
 
+
+## **How To Setup YouTube Notification In Your Server**
+
+1) *click 'Youtube Notification' button*
+
+[![yt notification](https://media.discordapp.net/attachments/675640023273701437/910397514736357447/Screenshot_20211117-104431_Chrome.png)](https://meroyalbot.xyz/dashboard)
+
+2) *Now fill all Details like yt notification channel, message, and youtube channel url*
+
+[![yt notification details](https://media.discordapp.net/attachments/675640023273701437/910398386652463134/Screenshot_20211117-104754_Chrome.png)](https://meroyalbot.xyz/dashboard)
+
+3) *Click Save button*

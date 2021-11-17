@@ -2,7 +2,7 @@
 
 **Policy-**
 
-Me royal read your channel message and reply 😂 (custom command)
+Me royal read your channel message and reply 😅 (custom command)
 Me royal some command use so must give admin permission
 Me royal config only edit dashboard
 

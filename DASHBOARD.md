@@ -29,7 +29,7 @@
 ## **HOW TO SETUP BOT IN YOUR SERVER**
 
 1) **[CLICK ME AND SELECT YOUR SERVER](https://meroyalbot.xyz/dashboard)**
-2) *NOW SELECT WHATEVER YOU WANT TO SETUP.*
+2) *NOW CLICK 'SERVER CONFIG' SELECT WHATEVER YOU WANT TO SETUP.*
 
-[![setup](https://cdn.discordapp.com/attachments/796673457973624843/808295944084127771/IMG_20210208_164907.jpg)](https://meroyalbot.xyz/dashboard)
+[![setup](https://media.discordapp.net/attachments/675640023273701437/910396350699540490/Screenshot_20211117-103953_Chrome.png)](https://meroyalbot.xyz/dashboard)
 

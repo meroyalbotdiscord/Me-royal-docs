@@ -18,11 +18,11 @@ __This Is Help You That How To Write In Welcome Message and Many More In easy wa
 
 `{user.id}`- join user id
 
-`{user.name}`- join user name ex. record_buttonNAME BOYrecord_button
+`{user.name}`- join user name ex. NAME BOY
 
 `{user.avatar}` -join user Avatar link send
 
-`{user.tag}` - join user tag like this record_buttonNAME BOYrecord_button#2751
+`{user.tag}` - join user tag like this NAME BOY#2751
 
 **Server info**
 
